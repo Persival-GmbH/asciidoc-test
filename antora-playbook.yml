@@ -1,5 +1,6 @@
 site:
   title: OpenMSL
+  url: https://persival-gmbh.github.io/asciidoc-test
   start_page: OpenMSL::index.adoc 
 content:
   sources: 
