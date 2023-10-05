@@ -1,6 +1,6 @@
 = Sub-Libraries
 
-Introduction to sub-libraries? Or is this redundant with the organization profile?
+NOTE: Introduction to sub-libraries? Or is this redundant with the organization profile?
 
 
 ## SL1 - Perception Sensor Models
