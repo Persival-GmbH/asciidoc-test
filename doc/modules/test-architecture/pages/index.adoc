@@ -1,3 +1,5 @@
+:fn-disclaimer: footnote:Ahmann2022[M. Ahmann, V. T. Le, F. Eichenseer, F. Steimann, and M. Benedikt, “Towards Continuous Simulation Credibility Assessment,” Proceedings of Asian Modelica Conference 2022, Tokyo, Japan, Nov. 2022.]
+
 = OSMP Test Architecture
 
 The OSMP Test Architecture is designed to test any simulation model complying to the [OSMP](https://github.com/OpenSimulationInterface/osi-sensor-model-packaging) specification.
@@ -16,9 +18,3 @@ Every credibility assessment level is tested with a separate GitHub action and i
 
 .Discrete credibility assessment level
 image::credibility_assessment_level.png[Discrete credibility assessment level,800]
-
-## References
-
-:fn-disclaimer: footnote:Ahmann2022[M. Ahmann, V. T. Le, F. Eichenseer, F. Steimann, and M. Benedikt, “Towards Continuous Simulation Credibility Assessment,” Proceedings of Asian Modelica Conference 2022, Tokyo, Japan, Nov. 2022.]
-
-<a name="Ahmann2022">[1]</a> M. Ahmann, V. T. Le, F. Eichenseer, F. Steimann, and M. Benedikt, “Towards Continuous Simulation Credibility Assessment,” Proceedings of Asian Modelica Conference 2022, Tokyo, Japan, Nov. 2022.
