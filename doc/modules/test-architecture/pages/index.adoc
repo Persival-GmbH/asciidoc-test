@@ -14,6 +14,7 @@ This yields the following credibility assessment level line-up:
 
 Every credibility assessment level is tested with a separate GitHub action and is further described in the following sections.
 
+.Discrete credibility assessment level
 image::credibility_assessment_level.png[Discrete credibility assessment level,800]
 
 <p align="center">
