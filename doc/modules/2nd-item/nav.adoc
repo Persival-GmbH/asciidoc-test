@@ -1,2 +1,3 @@
 * xref:index.adoc[]
 ** xref:test.adoc[]
+** xref:governance_rules.md[]
