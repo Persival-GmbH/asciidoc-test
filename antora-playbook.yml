@@ -5,8 +5,7 @@ content:
   sources: 
   - url: https://github.com/Persival-GmbH/asciidoc-test.git
     branches: HEAD
-  - url: https://github.com/Persival-GmbH/asciidoc-test.git
-    branches: [main]
+    edit_url: false
     start_path: doc
 ui: 
   bundle:
