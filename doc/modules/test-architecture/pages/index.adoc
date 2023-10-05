@@ -2,7 +2,7 @@
 
 = OSMP Test Architecture
 
-The OSMP Test Architecture is designed to test any simulation model complying to the [OSMP](https://github.com/OpenSimulationInterface/osi-sensor-model-packaging) specification.
+The OSMP Test Architecture is designed to test any simulation model complying to the https://github.com/OpenSimulationInterface/osi-sensor-model-packaging[OSMP] specification.
 A variety of model types from environmental effect models over sensor models to traffic participant models can be tested with this architecture.
 The architecture is divided into 3 main test levels based on the credibility assessment level definition by Ahmann et al.{fn-disclaimer}.
 Because the test architecture is specifically designed for OpenMSL open source models, a license check is needed.
@@ -10,9 +10,9 @@ The license check is preceding the 3 main credibility assessment levels as level
 This yields the following credibility assessment level line-up:
 
 - CL 0: xref:cl0.adoc[License Check]
-- CL 1: [Code Verification](#cl-1-code-verification)
-- CL 2: [Qualitative Verification](#cl-2-qualitative-verification)
-- CL 3: [Quantitative Verification](#cl-3-quantitative-verification)
+- CL 1: xref:cl1.adoc[Code Verification]
+- CL 2: xref:cl2.adoc[Qualitative Verification]
+- CL 3: xref:cl3.adoc[Quantitative Verification]
 
 Every credibility assessment level is tested with a separate GitHub action and is further described in the following sections.
 
