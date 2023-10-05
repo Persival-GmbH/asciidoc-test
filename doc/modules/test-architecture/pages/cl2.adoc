@@ -19,9 +19,10 @@ There are two possibilities for generating the input for the model.
 --
 [.left]
 .Tracefile test setup for CL 2
+[#img-cl2_test_tracefile,link=cl2_test_tracefile.svg]
 image::cl2_test_tracefile.svg[Tracefile test setup for CL 2,350]
 
-[.right]
+[.left]
 .Esmini test setup for CL 2
 image::cl2_test_esmini.svg[Esmini test setup for CL 2,350]
 --
