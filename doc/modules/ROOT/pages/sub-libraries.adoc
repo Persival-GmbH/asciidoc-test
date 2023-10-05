@@ -1,3 +1,38 @@
 = Sub-Libraries
 
 Introduction to sub-libraries? Or is this redundant with the organization profile?
+
+
+## SL1 - Perception Sensor Models
+
+This sub-library is a collection of https://github.com/OpenSimulationInterface/open-simulation-interface[OSI] compliant sensor models according to the https://github.com/OpenSimulationInterface/osi-sensor-model-packaging[OSMP] specification including a template repository
+demonstrating the https://setlevel.de/assets/forschungsergebnisse/Credible-Simulation-Process-v1.0.pdf[Credible Simulation Process] by running full scale https://ssp-standard.org/[SSP] based co-simulations in the CI pipeline.
+
+Initiated: 2022-07-25
+  
+
+## SL2 - Traffic Participant Models
+
+This sub-library is a set of OSI compliant traffic participant models, which include pedestrian models, SSP based ALKS systems, automated road users and others to demonstrate closed loop simulations in combination with other sub-libraries utilizing open-source simulators such as https://github.com/esmini/esmini[esmini].
+
+Initiated: Call for participation. Get engaged mailto:hello@envited.market[hello@envited.market]
+
+## SL3 - Scenario Data
+
+This sub-library contains example scenario data following the https://www.asam.net/standards/detail/openscenario/[ASAM OpenSCENARIO] standard to provide interpretations for legislative documents such as the UN Regulation No. 157 in order to discuss them in the community.
+In addition, the best practices to establish quality gates for scenario databases to clearly show the quality of scenario data are shown.
+
+Initiated: Call for participation. Get engaged mailto:hello@envited.market[hello@envited.market]
+
+## SL4 - Static Environment Data
+
+The German research project https://www.gaia-x4plcaad.info/[GaiaX 4 PLC-AAD] develops quality metrics and tools to evaluate the successful integration of https://www.asam.net/standards/detail/opendrive[ASAM OpenDRIVE] maps
+with e.g. https://www.khronos.org/gltf/[glTF] 3D models and their respective material data extentions.
+
+Initiated: Call for participation. Get engaged mailto:hello@envited.market[hello@envited.market]
+
+## SL5 - Tooling
+
+This sub-library contains various tools to import, export, analyze and visualize co-simulation data.
+
+Initiated: Call for participation. Get engaged mailto:hello@envited.market[hello@envited.market]
