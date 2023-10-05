@@ -16,7 +16,10 @@ There are two possibilities for generating the input for the model.
    In a future adaptation, the esmini FMU will be enabled to receive osi3::TrafficCommand data to test further model types.
 
 .Discrete credibility assessment level
-image::cl2_test_tracefile.svg[Test setups for credibility assessment level 2,800]
+image::cl2_test_tracefile.svg[Test setups for credibility assessment level 2,400]
+
+.Discrete credibility assessment level
+image::cl2_test_esmini.svg[Test setups for credibility assessment level 2,400]
 
 
 The output of the model can be used in three different ways:
