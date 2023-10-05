@@ -2,7 +2,7 @@
 
 The OSMP Test Architecture is designed to test any simulation model complying to the [OSMP](https://github.com/OpenSimulationInterface/osi-sensor-model-packaging) specification.
 A variety of model types from environmental effect models over sensor models to traffic participant models can be tested with this architecture.
-The architecture is divided into 3 main test levels based on the credibility assessment level definition by Ahmann et al. [[1](#Ahmann2022)].
+The architecture is divided into 3 main test levels based on the credibility assessment level definition by Ahmann et al.{fn-disclaimer}.
 Because the test architecture is specifically designed for OpenMSL open source models, a license check is needed.
 The license check is preceding the 3 main credibility assessment levels as level 0.
 This yields the following credibility assessment level line-up:
@@ -23,5 +23,7 @@ image::credibility_assessment_level.png[Discrete credibility assessment level,80
 </p>
 
 ## References
+
+:fn-disclaimer: footnote:Ahmann2022[M. Ahmann, V. T. Le, F. Eichenseer, F. Steimann, and M. Benedikt, “Towards Continuous Simulation Credibility Assessment,” Proceedings of Asian Modelica Conference 2022, Tokyo, Japan, Nov. 2022.]
 
 <a name="Ahmann2022">[1]</a> M. Ahmann, V. T. Le, F. Eichenseer, F. Steimann, and M. Benedikt, “Towards Continuous Simulation Credibility Assessment,” Proceedings of Asian Modelica Conference 2022, Tokyo, Japan, Nov. 2022.
