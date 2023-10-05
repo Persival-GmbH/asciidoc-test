@@ -6,4 +6,5 @@ version:
 nav:
 - modules/ROOT/nav.adoc
 - modules/organization/nav.adoc
+- modules/test-architecture/nav.adoc
 - modules/2nd-item/nav.adoc
