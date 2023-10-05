@@ -7,7 +7,7 @@ Because the test architecture is specifically designed for OpenMSL open source m
 The license check is preceding the 3 main credibility assessment levels as level 0.
 This yields the following credibility assessment level line-up:
 
-- CL 0: [License Check](#cl-0-license-check)
+- CL 0: link:cl0.adoc[License Check]
 - CL 1: [Code Verification](#cl-1-code-verification)
 - CL 2: [Qualitative Verification](#cl-2-qualitative-verification)
 - CL 3: [Quantitative Verification](#cl-3-quantitative-verification)
@@ -16,11 +16,6 @@ Every credibility assessment level is tested with a separate GitHub action and i
 
 .Discrete credibility assessment level
 image::credibility_assessment_level.png[Discrete credibility assessment level,800]
-
-<p align="center">
-  <img alt="Credibility Assessment Level" src="./img/credibility_assessment_level.png" width="600"> <br>
-  <em>Discrete credibility assessment level</em>
-</p>
 
 ## References
 
