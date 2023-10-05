@@ -5,3 +5,4 @@ version:
   main: ''
 nav:
 - modules/ROOT/nav.adoc
+- modules/2nd-item/nav.adoc
