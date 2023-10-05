@@ -1,5 +1,7 @@
 = Introduction
 
+image::envited.png[envited,800]
+
 ENVITED stands for Environment for Virtual Test Drive encompassing all components for virtual test and validation of Advanced Driver Assistent Systems (ADAS) including but not limited to standardized data sets, e.g. digital maps, scenario data, simulation models and their respective test and validation methods.
 OpenMSL aims to connect and demonstrate the seemless interaction of projects in the domain using elaborate test pipelines, also to assure the compliance of all simulation entities with relevant standards.
 
