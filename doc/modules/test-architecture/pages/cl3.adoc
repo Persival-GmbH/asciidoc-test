@@ -20,10 +20,8 @@ This can be achieved in two ways:
 
 The general setup of this test level is depicted in the following image and both approaches are described in more detail in the following sections.
 
-<p align="center">
-  <img alt="CL 3 Test" src="./img/cl3_test.svg" width="600"> <br>
-  <em>Test setup for credibility assessment level 3</em>
-</p>
+.Discrete credibility assessment level
+image::cl3_test.svg[Test setups for credibility assessment level 3,800]
 
 ## CL 3.1 Standalone Trace File Analysis
 
