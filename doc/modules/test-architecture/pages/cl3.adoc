@@ -2,7 +2,7 @@
 
 For credibility assessment level 3, the model is again employed in a co-simulation with a trace file player or scenario engine.
 During the simulation, a trace file is generated containing the model output of every simulation time step.
-This is done by connecting a [trace file writer](https://github.com/Persival-GmbH/osi-sensordata-trace-file-writer) to the model output in the SSP specification of the test.
+This is done by connecting a https://github.com/Persival-GmbH/osi-sensordata-trace-file-writer[trace file writer] to the model output in the SSP specification of the test.
 The trace file writer is pre-built in every test environment.
 The FMU is located at _/tmp/tracefile_writer_fmu/osi-sensordata-trace-file-writer.fmu_.
 After the co-simulation is finished, the GitHub action scans the test folder for python files.
@@ -34,11 +34,11 @@ The python script can analyze the sensor model output and check, if the object w
 Another example would be to place an object outside of the field of view and check, that it was not detected.
 Furthermore, distribution functions for detections or expected number of detections on an object can be checked.
 
-An example implementation of this test can be found in the [sensor model template repository](https://github.com/openMSL/sl-1-0-sensor-model-repository-template/tree/main/test/integration/004_tracefile_analysis).
+An example implementation of this test can be found in the https://github.com/openMSL/sl-1-0-sensor-model-repository-template/tree/main/test/integration/004_tracefile_analysis[sensor model template repository].
 
 ## CL 3.2 Trace File Comparison
 
-(not yet implemented) <br>
+(not yet implemented) +
 This test is similar to 3.1.
 But instead of analyzing the simulation trace file with certain criteria, the python script compares the model output to an expectation trace files.
 The expectation trace file can either contain other simulated data or even measurement data from a real system to compare the model under test to.
