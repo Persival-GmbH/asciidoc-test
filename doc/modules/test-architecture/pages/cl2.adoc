@@ -24,6 +24,7 @@ image::cl2_test_tracefile.svg[Tracefile test setup for CL 2,350]
 
 [.right]
 .Esmini test setup for CL 2
+[#img-cl2_test_esmini,link=_images/cl2_test_esmini.svg]
 image::cl2_test_esmini.svg[Esmini test setup for CL 2,350]
 --
 
