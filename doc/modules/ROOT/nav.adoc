@@ -1,4 +1,1 @@
 * xref:index.adoc[]
-** xref:governance_rules.adoc[]
-** xref:test2.adoc[]
-* xref:test.adoc[]

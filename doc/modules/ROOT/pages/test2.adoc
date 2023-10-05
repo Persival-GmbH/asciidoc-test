@@ -1,5 +1,0 @@
-= GOVERNANCE RULES
-
-## §1 Purpose of ENVITED OpenMSL
-
-blabla

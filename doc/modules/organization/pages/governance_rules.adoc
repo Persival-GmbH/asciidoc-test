@@ -1,4 +1,4 @@
-= GOVERNANCE RULES
+= Governance Rules
 
 ## §1 Purpose of ENVITED OpenMSL
 
@@ -52,7 +52,7 @@ Contribution of open-source material to the OpenMSL may be made under the follow
    - Companies / organizations stating their DUNS number
    - Publicly funded projects (under confirmation by the consortium leader)
 2. the open-source material to be contributed must be assignable to a sub library or be placed in a new sub library,
-3. the open-source material to be contributed must be licensed under a common open-source license as listed on [opensource.org](https://opensource.org/) and documented in a LICENSE file,
+3. the open-source material to be contributed must be licensed under a common open-source license as listed on https://opensource.org/[opensource.org] and documented in a LICENSE file,
 4. the open-source material to be contributed must be presented to the appropriate SLMs and comply with the rules of the sub library,
 5. the ENVITED OpenMSL disclaimer must be agreed to and documented in a DISCLAIMER file.
 

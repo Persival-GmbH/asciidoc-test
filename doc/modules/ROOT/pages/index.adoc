@@ -1,79 +1,14 @@
-= ENVITED OpenMSL Organization
-:toc:
+= Introduction
 
-This GitHub organization is maintained by the [Automotive Solution Center for Simulation e.V.](https://www.asc-s.de/) - a non-profit industry club registered in Germany.
-The main focus of its activities is the concentration of expertise from automotive and supply industry, software and hardware manufacturers, engineering service providers and research institutes.
-The asc(s brings together key leaders from the industry with the best and most renowned scientists in the field of virtual vehicle development. Its members benefit from a worldwide unique research
-and development landscape with special focus on high-performance computing, driving simulation and digitalization.
+ENVITED stands for Environment for Virtual Test Drive encompassing all components for virtual test and validation of Advanced Driver Assistent Systems (ADAS) including but not limited to standardized data sets, e.g. digital maps, scenario data, simulation models and their respective test and validation methods.
+OpenMSL aims to connect and demonstrate the seemless interaction of projects in the domain using elaborate test pipelines, also to assure the compliance of all simulation entities with relevant standards.
 
-The [ENVITED Research Cluster](https://envited.market/) is an initiative to create the Environment for Virtual Test Drive in a collaborative way, defining a methodology for a standard data based virtual proof of validation.
-Virtual validation is becoming an essential part of development processes for highly automated driving (HAD) functions. Standards for model and system interchange are vital for cross-company and cross-domain virtual
-integration and simulation of HAD functions.
+All repositories are organized in sub-libraries and each sub-library (SL) represents the best practices in the automotive industry on how to use, create and apply standard compliant simulation data and models regarding a specific topic or application area guided by expert maintainers of the ENVITED community.
 
+As part of these best practices, OpenMSL provides unified test architectures for simulation components.
+For OSMP compliant simulation models, an OSMP Test Architecture is definied.
+The architecture is applied in the template repositories of the corresponding sub-libraries.
 
-## ASC(S e.V. Governance Rules
+Learn more about the ENVITED research cluster of the Automotive Solution Center for Simulation e.V, our governance rules, contribution guidelines and our code of conduct.
 
-The collaboration of contributors in this GitHub organzation is organized under the umbrella of the Automotive Solution Center for Simulation e.V.
-In this community the general [Governance Rules](/doc/governance_rules.md) needed to fulfill industry compliance regulations are set.
-
-## Code of Conduct
-
-As a community we need to define how we want to interact with each other respectfully and make sure that we create an inclusive environment that encourages contributions.
-For this reason OpenMSL has a clear [Code of Conduct](/CODE_OF_CONDUCT.md) that applies to everyone. Read [here](https://opensource.guide/code-of-conduct/) why we need a code of conduct.
-A modified version of [this](https://www.contributor-covenant.org/) document is currently in use.
-
-## Contributing Guidelines
-
-Thanks for your interest in contributing! There are many ways to contribute to this project.
-Get started [here](/CONTRIBUTING.md).
-
-## PR and Issue Templates
-
-This repository also defines the standard issue and pull request templates valid for the overall organization.
-
-## Licensing
-
-The open-source material to be contributed must be licensed under a common open-source license as listed on [opensource.org](https://opensource.org/) and documented in a LICENSE file.
-
-The license tells you what rights you have as a developer, provided by the copyright holder.
-It is important that the contributor fully understands the licensing rights and agrees to them. Sometimes the copyright holder isn’t the contributor, such as when the contributor is doing work on behalf of a company.
-
-## Public organization profile
-
-The profile information is described in [profile/README.md](profile/README.md) and displayed on the organization main page.
-Read the corresponding GitHub [documentation](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) for more information on organization profiles.
-
-## Glossary
-
-In the doc folder a [list of abbreviations](doc/list_of_abbreviations.md) was compiled with all abbreviations and acronyms from the co-simulation universe used in OpenMSL.
-
-
-
-
-
-A paragraph with *bold* and _italic_ text.
-A link to https://eclipse.org[Eclipse].
-A reusable link to {url-gitlab}[GitLab].
- 
-image::an-image.png[An image,800]
- 
-== Section title
- 
-* Unordered list item
-** Add another marker to make a nested item
-* Another unordered list item
- 
-NOTE: One of five built-in admonition block types.
- 
-=== Subsection title
- 
- Text indented by one space is preformatted.
- 
-A source block with a Ruby function named `hello` that prints "`Hello, World!`":
- 
-[,ruby]
-----
-def hello name = 'World'
-  puts "Hello, #{name}!"
-end
-----
+We are looking forward to welcome you as member of our community!
