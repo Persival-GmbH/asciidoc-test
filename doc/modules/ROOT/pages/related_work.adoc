@@ -39,3 +39,7 @@ To test models in the GitHub CI pipeline, OpenMCx is used to connect multiple FM
 
 https://github.com/OpenSimulationInterface/osi-sensor-model-packaging[OSI Sensor Model Packaging]:
 OSMP is used as a template to package all models using OSI and FMI.
+
+## Webinars
+
+NOTE: Put webinars here?
