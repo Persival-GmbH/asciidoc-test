@@ -22,6 +22,10 @@ image::cl2_test_tracefile.svg[Test setups for credibility assessment level 2,400
 image::cl2_test_esmini.svg[Test setups for credibility assessment level 2,400]
 
 
+.Discrete credibility assessment level
+image::cl2_test_tracefile.svg[] image::cl2_test_esmini.svg[]
+
+
 The output of the model can be used in three different ways:
 
 1. It can be disregarded, just to test if the model runs at all. This is referred to as a smoke test. An example can be found https://github.com/openMSL/sl-1-0-sensor-model-repository-template/tree/main/test/integration/001_smoke_test_tracefile[here].
