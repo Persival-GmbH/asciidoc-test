@@ -9,7 +9,7 @@ Because the test architecture is specifically designed for OpenMSL open source m
 The license check is preceding the 3 main credibility assessment levels as level 0.
 This yields the following credibility assessment level line-up:
 
-- CL 0: link:pages/cl0.adoc[License Check]
+- CL 0: xref:cl0.adoc[License Check]
 - CL 1: [Code Verification](#cl-1-code-verification)
 - CL 2: [Qualitative Verification](#cl-2-qualitative-verification)
 - CL 3: [Quantitative Verification](#cl-3-quantitative-verification)
