@@ -1,4 +1,4 @@
-= Test 2
+= Sub-Test 2
  
 A paragraph with *bold* and _italic_ text.
 A link to https://eclipse.org[Eclipse].

@@ -1,4 +1,4 @@
-= Index page 2
+= Test page 2
 :toc:
 :url-gitlab: https://gitlab.eclipse.org
  
