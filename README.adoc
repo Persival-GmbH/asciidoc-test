@@ -1,5 +1,5 @@
 = Document Title
-:toc:left
+:toc:
 :url-gitlab: https://gitlab.eclipse.org
  
 A paragraph with *bold* and _italic_ text.
