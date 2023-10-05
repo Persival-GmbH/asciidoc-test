@@ -22,8 +22,8 @@ image::cl2_test_tracefile.svg[Test setups for credibility assessment level 2,400
 image::cl2_test_esmini.svg[Test setups for credibility assessment level 2,400]
 
 
-.Discrete credibility assessment level
-image::cl2_test_tracefile.svg[] image::cl2_test_esmini.svg[]
+.Test setups for credibility assessment level 2
+image:cl2_test_tracefile.svg[] image:cl2_test_esmini.svg[]
 
 
 The output of the model can be used in three different ways:
