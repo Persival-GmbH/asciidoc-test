@@ -21,7 +21,7 @@ This can be achieved in two ways:
 The general setup of this test level is depicted in the following image and both approaches are described in more detail in the following sections.
 
 .Test setup for credibility assessment level 3
-image::cl3_test.svg[Test setup for credibility assessment level 3,800]
+image::cl3_test.svg[Test setup for credibility assessment level 3,600]
 
 ## CL 3.1 Standalone Trace File Analysis
 
