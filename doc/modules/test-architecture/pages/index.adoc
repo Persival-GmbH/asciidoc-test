@@ -18,3 +18,7 @@ Every credibility assessment level is tested with a separate GitHub action and i
   <img alt="Credibility Assessment Level" src="./img/credibility_assessment_level.png" width="600"> <br>
   <em>Discrete credibility assessment level</em>
 </p>
+
+## References
+
+<a name="Ahmann2022">[1]</a> M. Ahmann, V. T. Le, F. Eichenseer, F. Steimann, and M. Benedikt, “Towards Continuous Simulation Credibility Assessment,” Proceedings of Asian Modelica Conference 2022, Tokyo, Japan, Nov. 2022.
