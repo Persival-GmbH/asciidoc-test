@@ -1,5 +1,5 @@
 site:
-  title: OpenMSL
+  title: ENVITED Open Source Model & Simulation Library
   url: https://persival-gmbh.github.io/asciidoc-test
   start_page: OpenMSL::index.adoc 
 content:
