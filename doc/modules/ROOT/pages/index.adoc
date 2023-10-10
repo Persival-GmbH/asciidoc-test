@@ -12,6 +12,6 @@ As part of these best practices, OpenMSL provides unified test architectures for
 For OSMP compliant simulation models, an xref:test-architecture:index.adoc[OSMP Test Architecture] is defined.
 The architecture is applied in the template repositories of the corresponding sub-libraries.
 
-Learn more about the ENVITED research cluster of the Automotive Solution Center for Simulation e.V, our governance rules, contribution guidelines and our code of conduct.
+Learn more about the ENVITED research cluster of the Automotive Solution Center for Simulation e.V, our governance rules, contribution guidelines and our code of conduct on the xref:organization:index.adoc[Organization] page.
 
 We are looking forward to welcome you as member of our community!
